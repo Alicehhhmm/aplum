@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.mu{
+    height: 500px;
+    display: flex;
+    
+    background-color: sandybrown;
+}
+.mut{
+    height: 350px;
+    background-color: seagreen;
+}
+.mub{
+    height: 150px;
+    background-color: skyblue;
+}

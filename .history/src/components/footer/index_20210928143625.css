@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.mu{
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: sandybrown;
+}
+.mut{
+    height: 350px;
+    font-size: 14px;
+    color: rgba(0, 0, , .5);
+    display: flex;
+    background-color: seagreen;
+}
+.mub{
+    height: 150px;
+    background-color: skyblue;
+}

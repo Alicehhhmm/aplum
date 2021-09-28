@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.mu{
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: sandybrown;
+}
+.mut{
+    height: 144px;
+    line-height: 144px;
+    font-size: 32px;
+    font-weight: 700;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 0;
+    background-color: seagreen;
+}
+.mub{
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+    background-color: skyblue;
+}
+.mutt{
+    width: ;
+    display: flex;
+    flex-grow: 1;
+    background-color: tan;
+}
+.mubb{
+    height: 50px;
+    display: flex;
+    flex-grow: 0;
+    background-color: black;
+}
