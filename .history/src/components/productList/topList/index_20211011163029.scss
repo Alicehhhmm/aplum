@@ -1,0 +1,17 @@
+
+
+.mod{
+    background-color: rosybrown;
+    width: 1190px;
+    height: 44px;
+    border-bottom:1px solid #908282;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    .modft{
+        font-size: 12px;
+    }
+    .modrt{
+        font-size: 12px;
+    }
+}

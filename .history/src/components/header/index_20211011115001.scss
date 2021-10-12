@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+// 主体
+.mn{
+    background-color: #e0e0e0;
+}
+
+// 头部小导航栏
+.minTop{
+    height: 40px;
+    line-height: 40px;
+    background-color: #e0e0e0;
+    padding: 0 40px;
+    .minTopft{
+        background-color: aqua;
+        display: flex;
+        
+        .time{
+            font-size: 12px;
+            color: #757575;
+            font-family:Helvetica,微软雅黑,Arial,sans-serif;
+        }
+    }
+}
+
+// 头部大导航栏
+.maxTop{
+
+}

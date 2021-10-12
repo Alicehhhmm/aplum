@@ -1,0 +1,59 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+// 主体
+.mn{
+    background-color: #e0e0e0;
+}
+
+// 头部小导航栏
+.minTop{
+    height: 40px;
+    line-height: 40px;
+    background-color: #e0e0e0;
+    padding: 0 40px;
+    display: flex;
+    justify-content: space-between;
+    .minTopft{
+        // background-color: aqua;
+        width: 300px;
+        display: flex;
+        justify-content: space-between;
+        .time{
+            font-size: 12px;
+            color: #757575;
+            font-family:Helvetica,微软雅黑,Arial,sans-serif;
+        }
+    }
+    .minToprt{
+        background-color: aqua;
+        width: 200px;
+        display: flex;
+        justify-content: space-around;
+        .icn{
+            width: 40px;
+            height: 40px;
+            text-align: center;
+            background-color: #757575;
+        }
+    }
+}
+
+// 头部大导航栏
+.maxTop{
+    background-color: #757575;
+    display: flex;
+    flex-direction:column;
+    .maxToptp{
+        background-color: burlywood;
+        height: 130px;
+        
+    }
+    .maxTopbt{
+        height: 50px;
+        background-color: brown;
+    }
+}
